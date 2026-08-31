@@ -42,14 +42,7 @@ Full-stack mobile developer building for the African fintech space — Flutter o
 **Fintech / APIs**
 Safaricom Daraja API · M-Pesa STK Push · Africa's Talking · Gemini AI · Resend
 
----
 
-### 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamau-David&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamau-David&layout=compact)
-
----
 
 ### 📫 Connect with me
 
