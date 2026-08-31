@@ -19,8 +19,6 @@ Full-stack mobile developer building for the African fintech space — Flutter o
 - **Integrations:** Safaricom Daraja API (M-Pesa STK Push subscriptions), Africa's Talking (SMS), Gemini AI (smart categorization), Resend (scheduled email reports)
 - **Status:** Preparing for Play Store launch
 
-*(Swap the link above for your actual repo URL once it's pushed.)*
-
 ---
 
 ### 🛠️ Tech Stack
